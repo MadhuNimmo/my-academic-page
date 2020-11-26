@@ -1,0 +1,104 @@
+baseURL = "https://madhunimmo.github.io/"
+languageCode = "en-us"
+title = "Madhurima Chakraborty"
+theme = "avicenna"
+googleAnalytics = "UA-1234-6"
+publishDir = "public"
+timeout=3000
+
+[params]
+  subtitle= "PhD Student"
+  interests="Software Engineering, Programming Languages, Programmer Tools."
+  #cv_name= "./MChakraborty_Resume.pdf"
+  #blog="http://myblog.edu"
+
+[[params.affilation]]
+  name = "University of California, Riverside"
+  position = "PhD Student"
+  contact = "mchak009@ucr.edu"
+
+#[[params.affilation]]
+  #name = "MyCoolStartup"
+  #position = "Co-Founder"
+  #contact = "hadi@mycoolstartup.ai"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/MadhuNimmo"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/MadhurimaChak15"
+
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/madhurimachakraborty93/"
+
+
+[[params.introduction.paragraph]]
+  text=""" I am a Ph.D. candidate at the Department of Computer Science & Engineering, University of California Riverside (UCR), advised by [Manu Sridharan](https://manu.sridharan.net/). 
+  My research is at the intersection of software engineering and programming languages. I wish to enhance programmer productivity through better programmer tools with improved security.
+
+   My current research focuses on developing a robust Static Call Graph technique for modern, framework-based JavaScript applications. """
+#[[params.experiences]]
+	#[[params.experiences.job]]
+		#role = "Programmer Analyst "
+    #duration = "Aug,2015 - Dec,2017"
+		#company  = "Cognizant Technology Solutions, India"
+		#description  = " Worked on the migration of mainframe based applications to Java APIs and the data from DB2 and VSAM to H-Base and Titan DB."
+	#[[params.experiences.job]]
+		#role = "Senior Systems Engineer "
+    #duration = "Jan,2018 - May,2019"
+		#company  = "Infosys Limited, India"
+		#description  = "Worked on development and maintainance of Mainframe applications."
+
+#[[params.honors]]
+	#[[params.honors.award]]
+		#description = "Received Travel Grant from [WiML](https://google.com) to attend [ICLR 2020](https://google.com)"
+
+#[[params.projects]]
+	#[[params.projects.project]]
+		#name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
+		#description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
+		#project_page = "https://myprojecthomepage.com"
+		#code_link = "https://coderepo.com"
+		#blog_link = "https://ablogpost.com"
+
+[[params.publications]]
+  year="Coming Soon."
+
+  #[[params.publications.paper]]
+		#name = "Coming Soon"
+		#authors = "Caroll Comes, __Hadi Sinaee__"
+		#dest  = "Udo Madhu Journal"
+		#link = "https://mypaperishere.com"
+		#code_link = "https://thecoderepo.com"
+		#blog_link = ""
+
+[[params.misc]]
+  [[params.misc.miscc]]
+    description = "In my free time, I enjoy engaging in random coversations with random people over reddit. My other hobbies are cooking, photography and travelling."
+
+ #[[params.projects.project]]
+		#name = "In nisl nisi scelerisque eu ultrices vitae auctor"
+		#description  = ""
+		#project_page = "https://myprojecthomepage.com"
+		#code_link = "https://coderepo.com"
+		#blog_link = "I am very fortunate to mentor Renzo at UCR. It was a great pleasure collaborating with him.renzo-olivares.dev"
+
+#[[params.publications]]
+  #year="Preprint"
+
+  #[[params.publications.paper]]
+    #name = "Enim nunc faucibus a pellentesque sit amet porttitor"
+    #authors = "Ana Alvardo, William Worthley, __Hadi Sinaee__"
+    #dest  = "Helga Zita Journal"
+    #link = "https://mypaperishere.com"
+    #code_link = "https://thecoderepo.com"
+    #blog_link = "https://myblogaboutit.com"
+
+
